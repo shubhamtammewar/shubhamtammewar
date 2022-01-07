@@ -38,7 +38,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalsam98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtammewar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
