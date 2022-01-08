@@ -1,4 +1,4 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin Mittal</h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Tammewar</h1>
 
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
@@ -34,7 +34,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 ## 📊 My Github Stats
 
-  [![shubham's GitHub stats](https://github-readme-stats.vercel.app/api?shubhamtammewar&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![shubham's GitHub stats](https://github-readme-stats.vercel.app/api?shubhamtammewar&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/shubhamtammewar/github-readme-stats)
 
 ## ✨ Top Languages Card
 
@@ -45,7 +45,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 <br/>
 
 
-[![shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhamtammewar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhamtammewar&theme=react-dark)](https://github.com/shubhamtammewar/github-readme-activity-graph)
 
 
 <br/>
@@ -62,7 +62,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 
 <!--
-**mittalsam98/mittalsam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shubhamtammewar/shubhamtammewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
