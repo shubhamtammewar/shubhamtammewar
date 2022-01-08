@@ -32,9 +32,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 <br/>
 
 
-## 📊 My Github Stats
 
-  [![shubham's GitHub stats](https://github-readme-stats.vercel.app/api?shubhamtammewar&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/shubhamtammewar/github-readme-stats)
 
 ## ✨ Top Languages Card
 
