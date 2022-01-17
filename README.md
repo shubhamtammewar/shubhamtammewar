@@ -7,6 +7,7 @@
 I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 - 📫 How to reach me **shubhamtammewar96@gmail.com**
+- <a href="www.linkedin.com/in/shubhamtammewar"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/><a/>
 
 - ⚡ Fun fact **I am fan of reading novels.**
 
