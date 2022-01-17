@@ -8,7 +8,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 - 📫 How to reach me **shubhamtammewar96@gmail.com**
 - <h5>Contact me</h5> 
-<a href="www.linkedin.com/in/shubhamtammewar"><img width="20px" height="20px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/><a/>
+<a href="www.linkedin.com/in/shubhamtammewar"><img margin-left="20px" width="20px" height="20px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/><a/>
 
 - ⚡ Fun fact **I am fan of reading novels.**
 
